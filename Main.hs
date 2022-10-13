@@ -3,7 +3,6 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE Strict #-}
 module Main where
--- https://github.com/hgiddens/ray-tracing-in-one-weekend/blob/master/haskell/app/Main.hs
 
 import Prelude hiding (div, pi)
 import Control.Monad.Primitive (PrimState)
